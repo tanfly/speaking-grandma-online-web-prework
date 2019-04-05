@@ -1,9 +1,9 @@
-def speak_to_grandma(greeting)
-  if greeting != greeting.upcase
+def speak_to_grandm(string)
+  if string != string.upcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif greeting.upcase
+  elsif string.upcase
   puts "NO, NOT SINCE 1938!"
- elsif greeting == "I LOVE YOU GRANDMA!"
+ elsif string == "I LOVE YOU GRANDMA!"
  puts "I LOVE YOU TOO PUMPKIN!"
 end
 end
