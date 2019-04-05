@@ -14,11 +14,11 @@
 
 def speak_to_grandma
   if "Hi, Grandma!".upcase
-    puts "NO, NOT SINCE 1938!"
-    elsif "I love you Grandma!".upcase
-    puts "I love you too pumpkin!".upcase
+    puts "NO, NOT SINCE 1938!".upcase
+    elsif "I LOVE YOU GRANDMA!".upcase
+    puts "I LOVE YOU TOO PUMPKIN!".upcase
  else
-  puts "Huh?! Speak up, Sonny!".upcase
+  puts "HUH?! SPEAK UP, SONNY!".upcase
 end
 end
   
