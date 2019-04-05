@@ -11,6 +11,7 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
 def speak_to_grandma
   if "Hi, Grandma!".upcase
     puts "No, Not since 1938!".upcase
@@ -18,5 +19,6 @@ def speak_to_grandma
     puts "I love you too pumpkin!".upcase
  else
   puts "Huh?! Speak up, Sonny!".upcase
+end
 end
   
