@@ -14,5 +14,5 @@
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN!".upcase
-  elsif 
+  elsif speak_to_grandma == .upcase
   
