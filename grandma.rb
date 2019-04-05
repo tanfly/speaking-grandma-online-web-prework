@@ -12,6 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
+greeting = 
 if speak_to_grandma(greeting) == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   elsif speak_to_grandma == greeting.upcase
